@@ -11,11 +11,8 @@ The House Price Prediction project is aimed at developing a machine learning sol
 3. **Model Evaluation:** Assess the performance of the trained model using appropriate evaluation metrics to ensure accurate predictions.
 
 ## Technologies Used
-- Python
 - [Jupyter Notebook](https://jupyter.org/) - Utilized for interactive development, analysis, and visualization.
 - [Pandas](https://pandas.pydata.org/) - Used for data manipulation and analysis.
 - [Scikit-learn](https://scikit-learn.org/) - Employed for building and evaluating machine learning models.
 - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) - Used for data visualization.
-- [GitHub](https://github.com/) - Version control and collaborative development.
-
 
