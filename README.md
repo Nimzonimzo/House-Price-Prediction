@@ -1,6 +1,6 @@
 # House Price Prediction Project
 
-This is a personal project centered around predicting house prices using machine learning techniques. The aim is to construct a model that can accurately forecast the price of a house based on its features.
+This is a personal project centered around predicting house prices using machine learning techniques. The aim is to construct a model that can accurately forecast the price of a house based on its features. And made a comparaison with a offer.
 
 ## Overview
 The House Price Prediction project is aimed at developing a machine learning solution to predict housing prices. This involves exploring and analyzing real estate data, training a predictive model, and evaluating its performance.
