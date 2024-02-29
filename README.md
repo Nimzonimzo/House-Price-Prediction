@@ -9,6 +9,7 @@ The House Price Prediction project is aimed at developing a machine learning sol
 1. **Price Prediction:** Implement a machine learning model to predict house prices based on various features such as square footage, number of bedrooms, and other relevant factors.
 2. **Feature Analysis:** Explore and analyze the dataset to identify key features that significantly influence house prices.
 3. **Model Evaluation:** Assess the performance of the trained model using appropriate evaluation metrics to ensure accurate predictions.
+4. **Machine Learning Model:** Implement different machine learning model.
 
 ## Technologies Used
 - [Jupyter Notebook](https://jupyter.org/) - Utilized for interactive development, analysis, and visualization.
