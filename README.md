@@ -10,7 +10,7 @@ The House Price Prediction project is aimed at developing a machine learning sol
 2. **Feature Analysis:** Explore and analyze the dataset to identify key features that significantly influence house prices.
 3. **Model Evaluation:** Assess the performance of the trained model using appropriate evaluation metrics to ensure accurate predictions.
 4. **Machine Learning Model:** Implement different machine learning model.
-5. **Add a localisation Feature:** Implement a feature that will give informations about the place of the house. Want to implement a feature that will measure distance to a plage too.
+5. **Add a localisation Feature:** Implement a feature that will give informations about the place of the house. Want to implement a feature that will measure distance to a plage too, give the distance between the appartement and Bouygues Télécom Mérignac (Internship location)
 
 ## Technologies Used
 - [Jupyter Notebook](https://jupyter.org/) - Utilized for interactive development, analysis, and visualization.
